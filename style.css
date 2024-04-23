@@ -67,6 +67,9 @@ body::before {
 .container__botao:hover{
     transform: scale(1.1);
 }
+.container__botao:active{
+    background-color: #5192e2;
+}
 .container__texto {
     margin: 16px 0 16px 0;
 }
